@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Mancefas
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React ->
-- 💞️ I’m looking to collaborate on ... (don't know yet)
-- 📫 Reach me - mantvydasdev@gmail.com
+## Hi there 👋, I am  Mantvydas.
+#### Developer from EU.
+I am learning, creating websites for myself and my clients.
 
-<!---
-Mancefas/Mancefas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- ⚛️ **React**
+- 🖥️ HTML, CSS, JS
+- ⚡ Bootstrap, Material UI
+- 🖱️ SEO
+
+
+
+## Fun fact
+- 💣 I can't start working without **2** cups of coffee ☕ 
+- 🚴‍♂️ And I cycle a lot when i have time 🚴‍♂️
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mancefas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mantvydas-liob%C4%97//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devportfolio.eu/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mancefas)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mancefas)
+
+
