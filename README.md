@@ -1,13 +1,13 @@
 ## Hi there 👋, I am  Mantvydas.
 #### Developer from EU.
-I am learning, creating websites for myself and my clients.
+I am learning new aproaches to make websites, create them for myself and my clients or friends.
 
 ## Skills
 
 - ⚛️ **React**
-- 🖥️ HTML, CSS, JS
-- ⚡ Bootstrap, Material UI
-- 🖱️ SEO
+- 🖥️ **HTML, CSS, JS**
+- ⚡ **Bootstrap, Material UI**
+- 🖱️ **SEO**
 
 
 
@@ -18,7 +18,7 @@ I am learning, creating websites for myself and my clients.
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mancefas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mantvydas-liob%C4%97//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devportfolio.eu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mancefas)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devportfolio.eu/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mancefas)](https://github.com/anuraghazra/github-readme-stats)
 
