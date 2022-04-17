@@ -5,8 +5,9 @@ I am learning new aproaches to make websites, create them for myself and my clie
 ## Skills
 
 - ⚛️ **React** (react-router, context API, redux)
+- ⚛️ **Next.js**
 - 🖥️ **HTML, CSS, JS**
-- ⚡ **Bootstrap, Material UI**
+- ⚡ **Bootstrap, Tailwind, Material UI**
 - 🖱️ **SEO**
 
 
