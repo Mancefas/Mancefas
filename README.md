@@ -1,6 +1,7 @@
 ## Hi there 👋, I am  Mantvydas.
 #### Developer from EU.
 I am learning new aproaches to make websites, create them for myself and my clients or friends.
+Freelancer for your projects.
 
 ## Skills
 
@@ -19,7 +20,7 @@ I am learning new aproaches to make websites, create them for myself and my clie
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mancefas)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devportfolio.eu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mancefas)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mantvydasportfolio.site/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mancefas)](https://github.com/anuraghazra/github-readme-stats)
 
