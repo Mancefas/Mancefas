@@ -1,6 +1,6 @@
 ## Hi there 👋, I am  Mantvydas.
 #### Developer from EU.
-I am learning new aproaches to make websites, create them for myself and my clients or friends.
+I am learning new website design approaches, creating them for myself and my clients or friends.
 Freelancer for your projects.
 
 ### Skills
@@ -15,11 +15,12 @@ Freelancer for your projects.
 
 ### Fun fact
 - 💣 I can't start working without **2** cups of coffee ☕ 
-- 🚴‍♂️ And I cycle a lot when i have time 🚴‍♂️
+- 🚴‍♂️ And I cycle a lot when I have time 🚴‍♂️
 
 
 ### My portfolio  
- [<img src='https://www.svgrepo.com/show/664/briefcase.svg' alt='website' height='40'>](https://mantvydasportfolio.site/) 
+ [<img src='https://www.svgrepo.com/show/664/briefcase.svg' alt='website' height='40'>](https://mantvydas.dev/) 
+ 
  
  
  ##
